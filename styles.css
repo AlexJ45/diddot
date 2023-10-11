@@ -1,0 +1,12 @@
+@import url(./reset.css);
+body {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  text-align: center;
+  background-color: #eaeaea;
+  padding: 20px;
+}
+@media screen and (min-width: 768px) {
+  header svg {
+    width: 60%;
+  }
+}
